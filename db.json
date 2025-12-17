@@ -38,7 +38,16 @@
       "isCurrent": false
     }
   ],
-  "homework": [],
+  "homework": [
+    {
+      "id": "1765992349707",
+      "title": "Круто",
+      "description": "Сделать кота",
+      "dueDate": "2026-02-06",
+      "isHidden": false,
+      "completedBy": []
+    }
+  ],
   "settings": {
     "adminUsername": "@admin",
     "giftThreshold": 5
