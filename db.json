@@ -24,7 +24,8 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2025-12-17T16:45:38.913Z"
+      "registeredAt": "2025-12-17T16:45:38.913Z",
+      "isBlocked": true
     }
   ],
   "topics": [
