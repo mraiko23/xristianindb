@@ -70,7 +70,7 @@
       "lastName": "вачильченко",
       "birthDate": "23.05.2000",
       "photo": "https://t.me/i/userpic/320/Jy2fomZbrbaFmMCfwUD8cdNIEq2qCq5YQJC13h7vECY0VY91pl_3pw6i0_lGkecN.svg",
-      "stickers": 2,
+      "stickers": 0,
       "absences": 0,
       "isAdmin": true,
       "theme": "dark",
@@ -110,12 +110,13 @@
         "scheduledTasksDate": "2025-12-18",
         "completedTasksToday": 3,
         "inventory": [
-          "hat_cowboy"
+          "hat_cowboy",
+          "scarf_red"
         ],
         "outfit": {}
       },
       "lastAcknowledgedGift": 1,
-      "spentStickers": 3
+      "spentStickers": 5
     }
   ],
   "topics": [],
