@@ -18,9 +18,33 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 0,
         "lastTaskDate": null,
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "play",
+          "createdAt": "2025-12-18T12:55:26.750Z",
+          "deadline": "2025-12-18T16:55:26.750Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "scheduledTasks": [
+          {
+            "hour": 4,
+            "minute": 43
+          },
+          {
+            "hour": 9,
+            "minute": 22
+          },
+          {
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "hour": 14,
+            "minute": 20
+          }
+        ],
+        "scheduledTasksDate": "2025-12-18",
+        "completedTasksToday": 2
       },
       "spentStickers": 10
     },
