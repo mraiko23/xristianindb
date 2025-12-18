@@ -81,16 +81,11 @@
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "wash",
-          "createdAt": "2025-12-18T13:26:40.733Z",
-          "deadline": "2025-12-18T17:26:40.733Z",
-          "taskIndex": 2
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "pet",
-          "time": "2025-12-18T09:11:46.773Z"
+          "type": "wash",
+          "time": "2025-12-18T13:28:21.727Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
         "tasksCompletedToday": 2,
@@ -113,7 +108,7 @@
           }
         ],
         "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 2,
+        "completedTasksToday": 3,
         "inventory": [
           "hat_cowboy"
         ],
