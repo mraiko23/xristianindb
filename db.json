@@ -18,18 +18,14 @@
         "createdAt": "2025-12-18T09:03:18.456Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "wash",
-          "createdAt": "2025-12-18T09:28:36.774Z",
-          "deadline": "2025-12-18T13:28:36.774Z"
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "wash",
-          "time": "2025-12-18T09:08:06.525Z"
+          "time": "2025-12-18T09:28:42.926Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:28:36.774Z",
-        "tasksCompletedToday": 2
+        "tasksCompletedToday": 3
       }
     },
     {
