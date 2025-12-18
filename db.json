@@ -16,16 +16,16 @@
         "animalId": "fox",
         "name": "уебок2",
         "createdAt": "2025-12-18T09:03:18.456Z",
-        "streak": 0,
-        "lastTaskDate": null,
+        "streak": 1,
+        "lastTaskDate": "Thu Dec 18 2025",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "walk",
-          "time": "2025-12-18T09:45:52.020Z"
+          "type": "pet",
+          "time": "2025-12-18T10:04:05.512Z"
         },
-        "lastTaskGeneratedAt": "2025-12-18T09:44:17.260Z",
-        "tasksCompletedToday": 0
+        "lastTaskGeneratedAt": "2025-12-18T10:03:53.470Z",
+        "tasksCompletedToday": 1
       }
     },
     {
