@@ -62,7 +62,9 @@
       "description": "Нарисовать  яблоко",
       "dueDate": "2025-12-21",
       "isHidden": false,
-      "completedBy": []
+      "completedBy": [
+        "7643517190"
+      ]
     },
     {
       "id": "1766025547830",
