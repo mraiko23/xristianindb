@@ -18,15 +18,11 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "play",
-          "createdAt": "2025-12-18T12:57:31.312Z",
-          "deadline": "2025-12-18T16:57:31.312Z"
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "feed",
-          "time": "2025-12-18T12:55:32.830Z"
+          "type": "play",
+          "time": "2025-12-18T12:57:48.549Z"
         },
         "scheduledTasks": [
           {
@@ -48,7 +44,7 @@
         ],
         "scheduledTasksDate": "2025-12-18",
         "completedTasksToday": 2,
-        "tasksCompletedToday": 1,
+        "tasksCompletedToday": 2,
         "inventory": [
           "hat_santa",
           "scarf_rainbow",
