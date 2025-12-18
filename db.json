@@ -80,7 +80,12 @@
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "walk",
+          "createdAt": "2025-12-18T13:33:24.413Z",
+          "deadline": "2025-12-18T17:33:24.413Z",
+          "taskIndex": 3
+        },
         "isDead": false,
         "lastAction": {
           "type": "wash",
