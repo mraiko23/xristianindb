@@ -80,16 +80,11 @@
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "walk",
-          "createdAt": "2025-12-18T13:33:24.413Z",
-          "deadline": "2025-12-18T17:33:24.413Z",
-          "taskIndex": 3
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "wash",
-          "time": "2025-12-18T13:28:21.727Z"
+          "type": "walk",
+          "time": "2025-12-18T13:33:36.605Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
         "tasksCompletedToday": 2,
@@ -112,7 +107,7 @@
           }
         ],
         "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 3,
+        "completedTasksToday": 4,
         "inventory": [
           "hat_cowboy",
           "scarf_red"
