@@ -117,7 +117,8 @@
         "outfit": {}
       },
       "lastAcknowledgedGift": 1,
-      "spentStickers": 5
+      "spentStickers": 5,
+      "isBlocked": true
     }
   ],
   "topics": [],
