@@ -19,13 +19,34 @@
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
         "currentTask": null,
-        "isDead": false,
+        "isDead": true,
         "lastAction": {
           "type": "walk",
           "time": "2025-12-18T12:26:20.644Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T12:25:44.121Z",
-        "tasksCompletedToday": 2
+        "tasksCompletedToday": 2,
+        "scheduledTasks": [
+          {
+            "hour": 4,
+            "minute": 14
+          },
+          {
+            "hour": 8,
+            "minute": 26
+          },
+          {
+            "hour": 13,
+            "minute": 14
+          },
+          {
+            "hour": 14,
+            "minute": 54
+          }
+        ],
+        "scheduledTasksDate": "2025-12-18",
+        "completedTasksToday": 0,
+        "diedAt": "2025-12-18T08:14:00.000Z"
       }
     },
     {
