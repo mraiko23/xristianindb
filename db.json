@@ -45,7 +45,9 @@
       "description": "Сделать кота",
       "dueDate": "2026-02-06",
       "isHidden": false,
-      "completedBy": []
+      "completedBy": [
+        "7643517190"
+      ]
     }
   ],
   "settings": {
