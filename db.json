@@ -26,6 +26,19 @@
       "theme": "light",
       "registeredAt": "2025-12-17T16:45:38.913Z",
       "isBlocked": false
+    },
+    {
+      "tgId": "7281346484",
+      "username": "klimochiv",
+      "firstName": "Клим",
+      "lastName": "Васильченко",
+      "birthDate": "23.05.2000",
+      "photo": "https://t.me/i/userpic/320/Jy2fomZbrbaFmMCfwUD8cdNIEq2qCq5YQJC13h7vECY0VY91pl_3pw6i0_lGkecN.svg",
+      "stickers": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2025-12-18T02:27:35.121Z"
     }
   ],
   "topics": [
