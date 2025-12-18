@@ -25,9 +25,7 @@
           "hat_santa",
           "hat_crown"
         ],
-        "outfit": {
-          "hat": "hat_santa"
-        }
+        "outfit": {}
       },
       "spentStickers": 8
     },
