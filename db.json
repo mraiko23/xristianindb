@@ -7,7 +7,7 @@
       "lastName": "Талицын",
       "birthDate": "1.12.2000",
       "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
-      "stickers": 6,
+      "stickers": 7,
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
@@ -77,11 +77,11 @@
       "theme": "dark",
       "registeredAt": "2025-12-18T09:04:37.995Z",
       "pet": {
-        "animalId": "chick",
+        "animalId": "bear",
         "name": "Баркк",
         "createdAt": "2025-12-18T09:05:20.075Z",
-        "streak": 0,
-        "lastTaskDate": null,
+        "streak": 1,
+        "lastTaskDate": "Thu Dec 18 2025",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
@@ -89,7 +89,7 @@
           "time": "2025-12-18T13:33:36.605Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
-        "tasksCompletedToday": 0,
+        "tasksCompletedToday": 2,
         "scheduledTasks": [
           {
             "hour": 4,
