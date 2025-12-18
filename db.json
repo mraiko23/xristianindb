@@ -18,18 +18,14 @@
         "createdAt": "2025-12-18T08:47:29.736Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "walk",
-          "createdAt": "2025-12-18T08:47:46.327Z",
-          "deadline": "2025-12-18T12:47:46.327Z"
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "play",
-          "time": "2025-12-18T08:47:46.326Z"
+          "type": "walk",
+          "time": "2025-12-18T08:47:58.384Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T08:47:46.327Z",
-        "tasksCompletedToday": 1
+        "tasksCompletedToday": 2
       }
     }
   ],
