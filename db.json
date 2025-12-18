@@ -21,11 +21,11 @@
         "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "pet",
-          "time": "2025-12-18T10:04:05.512Z"
+          "type": "walk",
+          "time": "2025-12-18T12:26:20.644Z"
         },
-        "lastTaskGeneratedAt": "2025-12-18T10:03:53.470Z",
-        "tasksCompletedToday": 1
+        "lastTaskGeneratedAt": "2025-12-18T12:25:44.121Z",
+        "tasksCompletedToday": 2
       }
     },
     {
