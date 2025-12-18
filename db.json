@@ -44,17 +44,16 @@
         "animalId": "bear",
         "name": "Баркк",
         "createdAt": "2025-12-18T09:05:20.075Z",
-        "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": {
-          "taskId": "sleep",
-          "createdAt": "2025-12-18T09:05:20.758Z",
-          "deadline": "2025-12-18T13:05:20.757Z"
-        },
+        "streak": 1,
+        "lastTaskDate": "Thu Dec 18 2025",
+        "currentTask": null,
         "isDead": false,
-        "lastAction": null,
+        "lastAction": {
+          "type": "sleep",
+          "time": "2025-12-18T09:05:34.391Z"
+        },
         "lastTaskGeneratedAt": "2025-12-18T09:05:20.758Z",
-        "tasksCompletedToday": 0
+        "tasksCompletedToday": 1
       }
     }
   ],
