@@ -93,8 +93,9 @@
         }
       ],
       "comment": "R",
-      "status": "pending",
-      "submittedAt": "2025-12-18T01:54:23.612Z"
+      "status": "rejected",
+      "submittedAt": "2025-12-18T01:54:23.612Z",
+      "rejectReason": "Тут"
     }
   ]
 }
