@@ -39,6 +39,19 @@
       "isAdmin": true,
       "theme": "dark",
       "registeredAt": "2025-12-18T02:27:35.121Z"
+    },
+    {
+      "tgId": "8118967885",
+      "username": "tinerrs",
+      "firstName": "ааааа",
+      "lastName": "вввва",
+      "birthDate": "24.08.2008",
+      "photo": "https://t.me/i/userpic/320/qGCHGmOtTYn1OqHhAANgZoeNaU3N2DjJ59nA8h5Nfi5_KS2U6yE1k2dAZxFSZQW0.svg",
+      "stickers": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2025-12-18T02:37:59.680Z"
     }
   ],
   "topics": [],
