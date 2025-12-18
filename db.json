@@ -7,7 +7,7 @@
       "lastName": "Талицын",
       "birthDate": "1.12.2000",
       "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
-      "stickers": 2,
+      "stickers": 0,
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
@@ -50,7 +50,8 @@
           "scarf_rainbow",
           "shoes_sneakers",
           "acc_glasses",
-          "scarf_red"
+          "scarf_red",
+          "scarf_blue"
         ],
         "outfit": {
           "hat": "hat_santa",
@@ -59,7 +60,7 @@
         },
         "lastActivatedTaskIndex": 3
       },
-      "spentStickers": 26,
+      "spentStickers": 28,
       "lastAcknowledgedGift": 6
     },
     {
