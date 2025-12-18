@@ -16,15 +16,14 @@
         "animalId": "bear",
         "name": "Ав",
         "createdAt": "2025-12-18T12:44:54.615Z",
-        "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": {
-          "taskId": "play",
-          "createdAt": "2025-12-18T12:55:26.750Z",
-          "deadline": "2025-12-18T16:55:26.750Z"
-        },
+        "streak": 1,
+        "lastTaskDate": "Thu Dec 18 2025",
+        "currentTask": null,
         "isDead": false,
-        "lastAction": null,
+        "lastAction": {
+          "type": "play",
+          "time": "2025-12-18T12:55:26.344Z"
+        },
         "scheduledTasks": [
           {
             "hour": 4,
@@ -44,7 +43,8 @@
           }
         ],
         "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 2
+        "completedTasksToday": 2,
+        "tasksCompletedToday": 1
       },
       "spentStickers": 10
     },
