@@ -19,8 +19,29 @@
         "streak": 0,
         "lastTaskDate": null,
         "currentTask": null,
-        "isDead": false,
-        "lastAction": null
+        "isDead": true,
+        "lastAction": null,
+        "scheduledTasks": [
+          {
+            "hour": 4,
+            "minute": 43
+          },
+          {
+            "hour": 9,
+            "minute": 22
+          },
+          {
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "hour": 14,
+            "minute": 20
+          }
+        ],
+        "scheduledTasksDate": "2025-12-18",
+        "completedTasksToday": 0,
+        "diedAt": "2025-12-18T08:43:00.000Z"
       }
     },
     {
