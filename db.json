@@ -1,5 +1,19 @@
 {
-  "users": [],
+  "users": [
+    {
+      "tgId": "7643517190",
+      "username": "Ymler_clarity",
+      "firstName": "Ymler",
+      "lastName": "Талицын",
+      "birthDate": "1.12.2000",
+      "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
+      "stickers": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2025-12-18T08:53:19.330Z"
+    }
+  ],
   "topics": [],
   "homework": [],
   "submissions": [],
