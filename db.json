@@ -77,11 +77,11 @@
       "theme": "dark",
       "registeredAt": "2025-12-18T09:04:37.995Z",
       "pet": {
-        "animalId": "bear",
+        "animalId": "chick",
         "name": "Баркк",
         "createdAt": "2025-12-18T09:05:20.075Z",
-        "streak": 1,
-        "lastTaskDate": "Thu Dec 18 2025",
+        "streak": 0,
+        "lastTaskDate": null,
         "currentTask": null,
         "isDead": false,
         "lastAction": {
@@ -89,7 +89,7 @@
           "time": "2025-12-18T13:33:36.605Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
-        "tasksCompletedToday": 2,
+        "tasksCompletedToday": 0,
         "scheduledTasks": [
           {
             "hour": 4,
