@@ -52,6 +52,19 @@
       "isAdmin": false,
       "theme": "dark",
       "registeredAt": "2025-12-18T02:37:59.680Z"
+    },
+    {
+      "tgId": "7761822862",
+      "username": "qw42wp",
+      "firstName": "Полина",
+      "lastName": "Васильченко",
+      "birthDate": "30.09.2013",
+      "photo": "https://t.me/i/userpic/320/NJwsfkwBprLFPam0PVArCSPYRC3-Vo8mHI76zs3CEr_fkI0a0LwURuBqSef-USe2.svg",
+      "stickers": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2025-12-18T05:26:17.593Z"
     }
   ],
   "topics": [],
