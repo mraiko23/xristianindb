@@ -7,7 +7,7 @@
       "lastName": "Талицын",
       "birthDate": "1.12.2000",
       "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
-      "stickers": 5,
+      "stickers": 0,
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
@@ -21,8 +21,8 @@
         "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "play",
-          "time": "2025-12-18T12:55:26.344Z"
+          "type": "feed",
+          "time": "2025-12-18T12:55:32.830Z"
         },
         "scheduledTasks": [
           {
@@ -44,9 +44,12 @@
         ],
         "scheduledTasksDate": "2025-12-18",
         "completedTasksToday": 2,
-        "tasksCompletedToday": 1
+        "tasksCompletedToday": 1,
+        "inventory": [
+          "hat_santa"
+        ]
       },
-      "spentStickers": 10
+      "spentStickers": 15
     },
     {
       "tgId": "7281346484",
