@@ -18,7 +18,12 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "feed",
+          "createdAt": "2025-12-18T13:06:29.199Z",
+          "deadline": "2025-12-18T17:06:29.199Z",
+          "taskIndex": 2
+        },
         "isDead": false,
         "lastAction": {
           "type": "pet",
@@ -54,7 +59,8 @@
           "hat": "hat_santa",
           "scarf": "scarf_rainbow",
           "shoes": "shoes_sneakers"
-        }
+        },
+        "lastActivatedTaskIndex": 2
       },
       "spentStickers": 22
     },
