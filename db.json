@@ -11,7 +11,17 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2025-12-18T08:47:00.249Z"
+      "registeredAt": "2025-12-18T08:47:00.249Z",
+      "pet": {
+        "animalId": "penguin",
+        "name": "уеба",
+        "createdAt": "2025-12-18T08:47:29.736Z",
+        "streak": 0,
+        "lastTaskDate": null,
+        "currentTask": null,
+        "isDead": false,
+        "lastAction": null
+      }
     }
   ],
   "topics": [],
