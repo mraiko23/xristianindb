@@ -39,7 +39,17 @@
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
-      "registeredAt": "2025-12-18T09:04:37.995Z"
+      "registeredAt": "2025-12-18T09:04:37.995Z",
+      "pet": {
+        "animalId": "bear",
+        "name": "Баркк",
+        "createdAt": "2025-12-18T09:05:20.075Z",
+        "streak": 0,
+        "lastTaskDate": null,
+        "currentTask": null,
+        "isDead": false,
+        "lastAction": null
+      }
     }
   ],
   "topics": [],
