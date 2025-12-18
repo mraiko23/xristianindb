@@ -51,5 +51,24 @@
   "settings": {
     "adminUsername": "@admin",
     "giftThreshold": 5
-  }
+  },
+  "submissions": [
+    {
+      "id": "1766022673085",
+      "hwId": "1765992349707",
+      "hwTitle": "Круто",
+      "tgId": "7643517190",
+      "userName": "Владимир Талицын",
+      "media": [
+        {
+          "url": "/uploads/1766022673085_0.mp4",
+          "type": "video",
+          "name": "1000091832.mp4"
+        }
+      ],
+      "comment": "Re",
+      "status": "pending",
+      "submittedAt": "2025-12-18T01:51:13.111Z"
+    }
+  ]
 }
