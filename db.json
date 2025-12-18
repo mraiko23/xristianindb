@@ -13,35 +13,14 @@
       "theme": "light",
       "registeredAt": "2025-12-18T09:02:46.630Z",
       "pet": {
-        "animalId": "bear",
-        "name": "Ку",
-        "createdAt": "2025-12-18T12:39:13.053Z",
+        "animalId": "panda",
+        "name": "Копаела",
+        "createdAt": "2025-12-18T12:40:50.306Z",
         "streak": 0,
         "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "scheduledTasks": [
-          {
-            "hour": 4,
-            "minute": 43
-          },
-          {
-            "hour": 9,
-            "minute": 22
-          },
-          {
-            "hour": 13,
-            "minute": 45
-          },
-          {
-            "hour": 14,
-            "minute": 20
-          }
-        ],
-        "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 0,
-        "diedAt": "2025-12-18T08:43:00.000Z"
+        "isDead": false,
+        "lastAction": null
       }
     },
     {
