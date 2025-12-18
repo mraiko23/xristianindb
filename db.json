@@ -18,16 +18,11 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2025-12-18T13:06:57.462Z",
-          "deadline": "2025-12-18T17:06:57.462Z",
-          "taskIndex": 3
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "feed",
-          "time": "2025-12-18T13:06:48.705Z"
+          "type": "pet",
+          "time": "2025-12-18T13:08:16.346Z"
         },
         "scheduledTasks": [
           {
@@ -48,7 +43,7 @@
           }
         ],
         "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 3,
+        "completedTasksToday": 4,
         "tasksCompletedToday": 3,
         "inventory": [
           "hat_santa",
