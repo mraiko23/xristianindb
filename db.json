@@ -7,7 +7,7 @@
       "lastName": "Талицын",
       "birthDate": "1.12.2000",
       "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
-      "stickers": 5,
+      "stickers": 0,
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
@@ -20,8 +20,12 @@
         "lastTaskDate": null,
         "currentTask": null,
         "isDead": false,
-        "lastAction": null
-      }
+        "lastAction": null,
+        "inventory": [
+          "hat_santa"
+        ]
+      },
+      "spentStickers": 5
     },
     {
       "tgId": "7281346484",
