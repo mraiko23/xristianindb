@@ -46,18 +46,14 @@
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
         "lastTaskDate": "Thu Dec 18 2025",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2025-12-18T09:11:43.446Z",
-          "deadline": "2025-12-18T13:11:43.445Z"
-        },
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "play",
-          "time": "2025-12-18T09:11:43.443Z"
+          "type": "pet",
+          "time": "2025-12-18T09:11:46.773Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
-        "tasksCompletedToday": 1
+        "tasksCompletedToday": 2
       }
     }
   ],
