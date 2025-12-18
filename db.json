@@ -11,7 +11,17 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2025-12-18T09:02:46.630Z"
+      "registeredAt": "2025-12-18T09:02:46.630Z",
+      "pet": {
+        "animalId": "chick",
+        "name": "уебок",
+        "createdAt": "2025-12-18T09:03:18.456Z",
+        "streak": 0,
+        "lastTaskDate": null,
+        "currentTask": null,
+        "isDead": false,
+        "lastAction": null
+      }
     }
   ],
   "topics": [],
