@@ -96,8 +96,8 @@
         "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "walk",
-          "time": "2025-12-18T13:33:36.605Z"
+          "type": "feed",
+          "time": "2025-12-18T14:42:28.311Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
         "tasksCompletedToday": 0,
@@ -126,7 +126,6 @@
           "scarf_red"
         ],
         "outfit": {
-          "hat": "hat_cowboy",
           "scarf": "scarf_red"
         }
       },
