@@ -55,7 +55,16 @@
     }
   ],
   "topics": [],
-  "homework": [],
+  "homework": [
+    {
+      "id": "1766025546760",
+      "title": "дз",
+      "description": "Нарисовать  яблоко",
+      "dueDate": "2025-12-21",
+      "isHidden": false,
+      "completedBy": []
+    }
+  ],
   "settings": {
     "adminUsername": "@klimochiv",
     "giftThreshold": 5
