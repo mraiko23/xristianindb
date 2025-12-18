@@ -47,7 +47,10 @@
         "tasksCompletedToday": 1,
         "inventory": [
           "hat_santa"
-        ]
+        ],
+        "outfit": {
+          "hat": "hat_santa"
+        }
       },
       "spentStickers": 15
     },
