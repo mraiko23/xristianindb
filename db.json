@@ -71,6 +71,28 @@
       "comment": "Re",
       "status": "approved",
       "submittedAt": "2025-12-18T01:51:13.111Z"
+    },
+    {
+      "id": "1766022863575",
+      "hwId": "1765992349707",
+      "hwTitle": "Круто",
+      "tgId": "8455455537",
+      "userName": "Vitsus D",
+      "media": [
+        {
+          "url": "/uploads/1766022863575_0.jpg",
+          "type": "image",
+          "name": "1000091858.jpg"
+        },
+        {
+          "url": "/uploads/1766022863575_1.jpg",
+          "type": "image",
+          "name": "1000091844.jpg"
+        }
+      ],
+      "comment": "R",
+      "status": "pending",
+      "submittedAt": "2025-12-18T01:54:23.612Z"
     }
   ]
 }
