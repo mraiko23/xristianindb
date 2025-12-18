@@ -116,7 +116,10 @@
         "completedTasksToday": 2,
         "inventory": [
           "hat_cowboy"
-        ]
+        ],
+        "outfit": {
+          "hat": "hat_cowboy"
+        }
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 3
