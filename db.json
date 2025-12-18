@@ -16,17 +16,16 @@
         "animalId": "chick",
         "name": "уебок",
         "createdAt": "2025-12-18T09:03:18.456Z",
-        "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": {
-          "taskId": "walk",
-          "createdAt": "2025-12-18T09:03:19.147Z",
-          "deadline": "2025-12-18T13:03:19.147Z"
-        },
+        "streak": 1,
+        "lastTaskDate": "Thu Dec 18 2025",
+        "currentTask": null,
         "isDead": false,
-        "lastAction": null,
+        "lastAction": {
+          "type": "walk",
+          "time": "2025-12-18T09:03:22.992Z"
+        },
         "lastTaskGeneratedAt": "2025-12-18T09:03:19.147Z",
-        "tasksCompletedToday": 0
+        "tasksCompletedToday": 1
       }
     }
   ],
