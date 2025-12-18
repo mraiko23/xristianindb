@@ -57,7 +57,16 @@
       }
     }
   ],
-  "topics": [],
+  "topics": [
+    {
+      "id": "1766054635238",
+      "title": "Test",
+      "date": "2025-12-18",
+      "description": "Brinrot top",
+      "isHidden": false,
+      "isCurrent": true
+    }
+  ],
   "homework": [],
   "submissions": [],
   "settings": {
