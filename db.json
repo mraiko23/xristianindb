@@ -63,6 +63,14 @@
       "dueDate": "2025-12-21",
       "isHidden": false,
       "completedBy": []
+    },
+    {
+      "id": "1766025547830",
+      "title": "дз",
+      "description": "Нарисовать  яблоко",
+      "dueDate": "2025-12-21",
+      "isHidden": false,
+      "completedBy": []
     }
   ],
   "settings": {
