@@ -21,8 +21,8 @@
         "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "pet",
-          "time": "2025-12-18T13:08:16.346Z"
+          "type": "feed",
+          "time": "2025-12-18T14:07:13.881Z"
         },
         "scheduledTasks": [
           {
@@ -56,7 +56,7 @@
         "outfit": {
           "shoes": "shoes_sneakers",
           "accessory": "acc_glasses",
-          "scarf": "scarf_red",
+          "scarf": "scarf_blue",
           "hat": "hat_santa"
         },
         "lastActivatedTaskIndex": 3
