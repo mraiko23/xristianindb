@@ -125,9 +125,7 @@
           "hat_cowboy",
           "scarf_red"
         ],
-        "outfit": {
-          "hat": "hat_cowboy"
-        }
+        "outfit": {}
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
