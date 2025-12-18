@@ -23,7 +23,10 @@
         "lastAction": null,
         "inventory": [
           "hat_santa"
-        ]
+        ],
+        "outfit": {
+          "hat": "hat_santa"
+        }
       },
       "spentStickers": 5
     },
