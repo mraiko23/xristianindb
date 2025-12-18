@@ -36,7 +36,7 @@
       "photo": "https://t.me/i/userpic/320/Jy2fomZbrbaFmMCfwUD8cdNIEq2qCq5YQJC13h7vECY0VY91pl_3pw6i0_lGkecN.svg",
       "stickers": 0,
       "absences": 0,
-      "isAdmin": false,
+      "isAdmin": true,
       "theme": "dark",
       "registeredAt": "2025-12-18T02:27:35.121Z"
     }
