@@ -13,44 +13,14 @@
       "theme": "light",
       "registeredAt": "2025-12-18T09:02:46.630Z",
       "pet": {
-        "animalId": "panda",
-        "name": "Копаела",
-        "createdAt": "2025-12-18T12:40:50.306Z",
+        "animalId": "bear",
+        "name": "А",
+        "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 0,
         "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "inventory": [
-          "hat_santa",
-          "hat_crown",
-          "scarf_red"
-        ],
-        "outfit": {
-          "hat": "hat_santa",
-          "scarf": "scarf_red"
-        },
-        "scheduledTasks": [
-          {
-            "hour": 6,
-            "minute": 16
-          },
-          {
-            "hour": 10,
-            "minute": 39
-          },
-          {
-            "hour": 12,
-            "minute": 32
-          },
-          {
-            "hour": 14,
-            "minute": 22
-          }
-        ],
-        "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 0,
-        "diedAt": "2025-12-18T10:16:00.000Z"
+        "isDead": false,
+        "lastAction": null
       },
       "spentStickers": 10
     },
