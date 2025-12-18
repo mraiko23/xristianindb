@@ -55,8 +55,7 @@
         "outfit": {
           "hat": "hat_santa",
           "scarf": "scarf_red",
-          "shoes": "shoes_sneakers",
-          "accessory": "acc_glasses"
+          "shoes": "shoes_sneakers"
         },
         "lastActivatedTaskIndex": 3
       },
