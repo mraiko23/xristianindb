@@ -13,35 +13,14 @@
       "theme": "light",
       "registeredAt": "2025-12-18T09:02:46.630Z",
       "pet": {
-        "animalId": "elephant",
-        "name": "Уебак",
-        "createdAt": "2025-12-18T12:31:58.524Z",
+        "animalId": "bear",
+        "name": "Ку",
+        "createdAt": "2025-12-18T12:39:13.053Z",
         "streak": 0,
         "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "scheduledTasks": [
-          {
-            "hour": 5,
-            "minute": 11
-          },
-          {
-            "hour": 9,
-            "minute": 10
-          },
-          {
-            "hour": 12,
-            "minute": 27
-          },
-          {
-            "hour": 17,
-            "minute": 20
-          }
-        ],
-        "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 0,
-        "diedAt": "2025-12-18T09:11:00.000Z"
+        "isDead": false,
+        "lastAction": null
       }
     },
     {
