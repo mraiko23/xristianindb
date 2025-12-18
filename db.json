@@ -114,7 +114,8 @@
         ],
         "scheduledTasksDate": "2025-12-18",
         "completedTasksToday": 2
-      }
+      },
+      "lastAcknowledgedGift": 0
     }
   ],
   "topics": [],
