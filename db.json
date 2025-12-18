@@ -60,7 +60,8 @@
         },
         "lastActivatedTaskIndex": 3
       },
-      "spentStickers": 26
+      "spentStickers": 26,
+      "lastAcknowledgedGift": 5
     },
     {
       "tgId": "7281346484",
