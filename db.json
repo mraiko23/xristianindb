@@ -52,7 +52,8 @@
         ],
         "outfit": {
           "hat": "hat_santa",
-          "scarf": "scarf_rainbow"
+          "scarf": "scarf_rainbow",
+          "shoes": "shoes_sneakers"
         }
       },
       "spentStickers": 22
