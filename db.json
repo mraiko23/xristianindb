@@ -27,7 +27,8 @@
           "scarf_red"
         ],
         "outfit": {
-          "hat": "hat_santa"
+          "hat": "hat_santa",
+          "scarf": "scarf_red"
         }
       },
       "spentStickers": 10
