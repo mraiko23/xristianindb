@@ -17,8 +17,12 @@
         "name": "Ав",
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 1,
-        "lastTaskDate": "Fri Dec 19 2025",
-        "currentTask": null,
+        "lastTaskDate": "2025-12-19",
+        "currentTask": {
+          "taskId": "feed",
+          "createdAt": "2025-12-19T08:25:03.613Z",
+          "deadline": "2025-12-19T12:25:03.613Z"
+        },
         "isDead": false,
         "lastAction": {
           "type": "play",
@@ -69,7 +73,9 @@
           "accessory": "acc_necklace",
           "hat": "hat_cap"
         },
-        "lastActivatedTaskIndex": 3
+        "lastActivatedTaskIndex": 3,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z"
       },
       "spentStickers": 57,
       "lastAcknowledgedGift": 11
@@ -91,8 +97,12 @@
         "name": "чупик",
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
-        "lastTaskDate": "Fri Dec 19 2025",
-        "currentTask": null,
+        "lastTaskDate": "2025-12-19",
+        "currentTask": {
+          "taskId": "pet",
+          "createdAt": "2025-12-19T08:25:03.613Z",
+          "deadline": "2025-12-19T12:25:03.613Z"
+        },
         "isDead": false,
         "lastAction": {
           "type": "feed",
@@ -126,7 +136,9 @@
         ],
         "outfit": {
           "scarf": "scarf_red"
-        }
+        },
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z"
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
