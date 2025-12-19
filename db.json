@@ -18,7 +18,12 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 1,
         "lastTaskDate": "Fri Dec 19 2025",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "play",
+          "createdAt": "2025-12-19T08:13:46.775Z",
+          "deadline": "2025-12-19T12:13:46.775Z",
+          "taskIndex": 1
+        },
         "isDead": false,
         "lastAction": {
           "type": "sleep",
