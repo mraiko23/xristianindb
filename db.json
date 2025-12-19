@@ -98,12 +98,8 @@
         "createdAt": "2025-12-18T09:05:20.075Z",
         "streak": 1,
         "lastTaskDate": "2025-12-19",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2025-12-19T08:25:03.613Z",
-          "deadline": "2025-12-19T12:25:03.613Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": {
           "type": "feed",
           "time": "2025-12-19T05:59:59.035Z"
@@ -138,7 +134,8 @@
           "scarf": "scarf_red"
         },
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z"
+        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z",
+        "diedAt": "2025-12-19T12:54:03.644Z"
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
