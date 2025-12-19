@@ -90,18 +90,13 @@
         "animalId": "monkey",
         "name": "чупик",
         "createdAt": "2025-12-18T09:05:20.075Z",
-        "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": {
-          "taskId": "feed",
-          "createdAt": "2025-12-19T05:59:53.985Z",
-          "deadline": "2025-12-19T09:59:53.985Z",
-          "taskIndex": 0
-        },
+        "streak": 1,
+        "lastTaskDate": "Fri Dec 19 2025",
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "feed",
-          "time": "2025-12-18T14:42:28.311Z"
+          "time": "2025-12-19T05:59:59.035Z"
         },
         "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
         "tasksCompletedToday": 0,
@@ -124,7 +119,7 @@
           }
         ],
         "scheduledTasksDate": "2025-12-19",
-        "completedTasksToday": 0,
+        "completedTasksToday": 1,
         "inventory": [
           "hat_cowboy",
           "scarf_red"
