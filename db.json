@@ -18,7 +18,12 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 0,
         "lastTaskDate": null,
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "sleep",
+          "createdAt": "2025-12-19T03:21:12.365Z",
+          "deadline": "2025-12-19T07:21:12.365Z",
+          "taskIndex": 0
+        },
         "isDead": false,
         "lastAction": {
           "type": "pet",
@@ -27,23 +32,23 @@
         "scheduledTasks": [
           {
             "hour": 4,
-            "minute": 43
+            "minute": 36
           },
           {
-            "hour": 9,
-            "minute": 22
+            "hour": 10,
+            "minute": 42
           },
           {
             "hour": 13,
-            "minute": 45
+            "minute": 30
           },
           {
             "hour": 14,
-            "minute": 20
+            "minute": 28
           }
         ],
-        "scheduledTasksDate": "2025-12-18",
-        "completedTasksToday": 4,
+        "scheduledTasksDate": "2025-12-19",
+        "completedTasksToday": 0,
         "tasksCompletedToday": 0,
         "inventory": [
           "hat_santa",
