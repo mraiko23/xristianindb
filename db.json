@@ -16,17 +16,13 @@
         "animalId": "lion",
         "name": "Ав",
         "createdAt": "2025-12-18T12:44:54.615Z",
-        "streak": 1,
-        "lastTaskDate": "2025-12-19",
-        "currentTask": {
-          "taskId": "feed",
-          "createdAt": "2025-12-19T08:25:03.613Z",
-          "deadline": "2025-12-19T12:25:03.613Z"
-        },
+        "streak": 2,
+        "lastTaskDate": "Fri Dec 19 2025",
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "play",
-          "time": "2025-12-19T08:13:41.721Z"
+          "type": "feed",
+          "time": "2025-12-19T09:09:09.663Z"
         },
         "scheduledTasks": [
           {
@@ -47,7 +43,7 @@
           }
         ],
         "scheduledTasksDate": "2025-12-19",
-        "completedTasksToday": 2,
+        "completedTasksToday": 3,
         "tasksCompletedToday": 0,
         "inventory": [
           "hat_santa",
