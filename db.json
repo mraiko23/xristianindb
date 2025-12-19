@@ -17,7 +17,7 @@
         "name": "Ав",
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 3,
-        "lastTaskDate": "Fri Dec 19 2025",
+        "lastTaskDate": "2025-12-19",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
@@ -70,7 +70,7 @@
           "hat": "hat_cap"
         },
         "lastActivatedTaskIndex": 3,
-        "tasksToday": 1,
+        "tasksToday": 0,
         "lastTaskCreatedAt": "2025-12-19T11:54:03.627Z"
       },
       "spentStickers": 57,
