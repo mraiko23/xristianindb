@@ -18,7 +18,11 @@
         "createdAt": "2025-12-18T12:44:54.615Z",
         "streak": 2,
         "lastTaskDate": "2025-12-19",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "walk",
+          "createdAt": "2025-12-19T11:54:03.627Z",
+          "deadline": "2025-12-19T15:54:03.627Z"
+        },
         "isDead": false,
         "lastAction": {
           "type": "feed",
@@ -70,8 +74,8 @@
           "hat": "hat_cap"
         },
         "lastActivatedTaskIndex": 3,
-        "tasksToday": 0,
-        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z"
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-19T11:54:03.627Z"
       },
       "spentStickers": 57,
       "lastAcknowledgedGift": 11
