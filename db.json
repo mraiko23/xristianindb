@@ -18,12 +18,8 @@
         "createdAt": "2025-12-21T04:21:27.855Z",
         "streak": 2,
         "lastTaskDate": "2025-12-21",
-        "currentTask": {
-          "taskId": "wash",
-          "createdAt": "2025-12-21T10:09:35.956Z",
-          "deadline": "2025-12-21T14:09:35.956Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": {
           "type": "feed",
           "time": "2025-12-21T09:50:15.343Z"
@@ -36,7 +32,8 @@
         ],
         "outfit": {
           "scarf": "scarf_red"
-        }
+        },
+        "diedAt": "2025-12-21T14:09:36.012Z"
       },
       "spentStickers": 59,
       "lastAcknowledgedGift": 7,
