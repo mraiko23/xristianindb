@@ -7,7 +7,7 @@
       "lastName": "Талицын",
       "birthDate": "1.12.2000",
       "photo": "https://t.me/i/userpic/320/3zP6E-fOknHde2O82ykMugm0CcGJbiQ0L66aXYE-dzB9Zni_2AWNU3oD9TPYwgrB.svg",
-      "stickers": 2,
+      "stickers": 0,
       "absences": 0,
       "isAdmin": true,
       "theme": "light",
@@ -26,9 +26,12 @@
         },
         "tasksToday": 0,
         "lastTaskCreatedAt": "2025-12-21T04:30:49.577Z",
-        "completedTasksToday": 1
+        "completedTasksToday": 1,
+        "inventory": [
+          "scarf_red"
+        ]
       },
-      "spentStickers": 57,
+      "spentStickers": 59,
       "lastAcknowledgedGift": 5,
       "roadProgress": 26,
       "claimedGifts": 0
