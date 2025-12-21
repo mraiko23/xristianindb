@@ -129,7 +129,25 @@
       "completedBy": []
     }
   ],
-  "submissions": [],
+  "submissions": [
+    {
+      "id": "1766289530633",
+      "hwId": "1766289483483",
+      "hwTitle": "Vvv",
+      "tgId": "7281346484",
+      "userName": "клим вачильченко",
+      "media": [
+        {
+          "url": "https://raw.githubusercontent.com/mraiko23/xristianindb/main/uploads/1766289530633_0.jpg",
+          "type": "image",
+          "name": "1000023549.jpg"
+        }
+      ],
+      "comment": "привет",
+      "status": "pending",
+      "submittedAt": "2025-12-21T03:58:51.047Z"
+    }
+  ],
   "settings": {
     "adminUsername": "@klimochiv",
     "giftThreshold": 5
