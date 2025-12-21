@@ -92,47 +92,12 @@
       "pet": {
         "animalId": "monkey",
         "name": "чупик",
-        "createdAt": "2025-12-18T09:05:20.075Z",
-        "streak": 1,
-        "lastTaskDate": "2025-12-19",
+        "createdAt": "2025-12-21T03:55:07.090Z",
+        "streak": 0,
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": {
-          "type": "feed",
-          "time": "2025-12-19T05:59:59.035Z"
-        },
-        "lastTaskGeneratedAt": "2025-12-18T09:11:43.446Z",
-        "tasksCompletedToday": 0,
-        "scheduledTasks": [
-          {
-            "hour": 5,
-            "minute": 8
-          },
-          {
-            "hour": 7,
-            "minute": 29
-          },
-          {
-            "hour": 11,
-            "minute": 6
-          },
-          {
-            "hour": 16,
-            "minute": 57
-          }
-        ],
-        "scheduledTasksDate": "2025-12-19",
-        "completedTasksToday": 1,
-        "inventory": [
-          "hat_cowboy",
-          "scarf_red"
-        ],
-        "outfit": {
-          "scarf": "scarf_red"
-        },
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-19T08:25:03.613Z",
-        "diedAt": "2025-12-19T12:54:03.644Z"
+        "isDead": false,
+        "lastAction": null
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
