@@ -62,7 +62,8 @@
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
-      "isBlocked": false
+      "isBlocked": false,
+      "roadProgress": 6
     },
     {
       "tgId": "1221268718",
