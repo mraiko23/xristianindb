@@ -17,10 +17,16 @@
         "name": "хуеглот",
         "createdAt": "2025-12-21T04:21:27.855Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2025-12-21",
+        "currentTask": {
+          "taskId": "walk",
+          "createdAt": "2025-12-21T04:30:49.577Z",
+          "deadline": "2025-12-21T08:30:49.577Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-21T04:30:49.577Z"
       },
       "spentStickers": 57,
       "lastAcknowledgedGift": 11,
