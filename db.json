@@ -59,21 +59,17 @@
         "animalId": "monkey",
         "name": "чупик",
         "createdAt": "2025-12-21T03:55:07.090Z",
-        "streak": 1,
-        "lastTaskDate": "2025-12-21",
-        "currentTask": {
-          "taskId": "play",
-          "createdAt": "2025-12-21T07:39:35.956Z",
-          "deadline": "2025-12-21T11:39:35.956Z"
-        },
+        "streak": 2,
+        "lastTaskDate": "Sun Dec 21 2025",
+        "currentTask": null,
         "isDead": false,
         "lastAction": {
-          "type": "wash",
-          "time": "2025-12-21T04:37:09.517Z"
+          "type": "play",
+          "time": "2025-12-21T08:54:24.232Z"
         },
         "tasksToday": 1,
         "lastTaskCreatedAt": "2025-12-21T07:39:35.956Z",
-        "completedTasksToday": 1
+        "completedTasksToday": 2
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 5,
