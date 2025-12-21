@@ -13,66 +13,14 @@
       "theme": "light",
       "registeredAt": "2025-12-18T09:02:46.630Z",
       "pet": {
-        "animalId": "lion",
-        "name": "Ав",
-        "createdAt": "2025-12-18T12:44:54.615Z",
-        "streak": 3,
-        "lastTaskDate": "2025-12-19",
+        "animalId": "frog",
+        "name": "хуеглот",
+        "createdAt": "2025-12-21T04:21:27.855Z",
+        "streak": 0,
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": {
-          "type": "walk",
-          "time": "2025-12-19T13:04:33.812Z"
-        },
-        "scheduledTasks": [
-          {
-            "hour": 4,
-            "minute": 36
-          },
-          {
-            "hour": 10,
-            "minute": 42
-          },
-          {
-            "hour": 13,
-            "minute": 30
-          },
-          {
-            "hour": 14,
-            "minute": 28
-          }
-        ],
-        "scheduledTasksDate": "2025-12-19",
-        "completedTasksToday": 4,
-        "tasksCompletedToday": 0,
-        "inventory": [
-          "hat_santa",
-          "scarf_rainbow",
-          "shoes_sneakers",
-          "acc_glasses",
-          "scarf_red",
-          "scarf_blue",
-          "hat_crown",
-          "hat_cap",
-          "hat_tophat",
-          "hat_party",
-          "hat_cowboy",
-          "scarf_green",
-          "shoes_boots",
-          "shoes_slippers",
-          "acc_bow",
-          "acc_medal",
-          "acc_necklace"
-        ],
-        "outfit": {
-          "shoes": "shoes_boots",
-          "accessory": "acc_necklace",
-          "hat": "hat_cap"
-        },
-        "lastActivatedTaskIndex": 3,
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-19T14:54:03.642Z",
-        "diedAt": "2025-12-19T18:54:03.695Z"
+        "isDead": false,
+        "lastAction": null
       },
       "spentStickers": 57,
       "lastAcknowledgedGift": 11,
