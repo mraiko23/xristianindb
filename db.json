@@ -61,10 +61,11 @@
         "lastTaskCreatedAt": "2025-12-21T04:18:46.100Z",
         "completedTasksToday": 1
       },
-      "lastAcknowledgedGift": 1,
+      "lastAcknowledgedGift": 0,
       "spentStickers": 5,
       "isBlocked": false,
-      "roadProgress": 6
+      "roadProgress": 0,
+      "claimedGifts": 0
     },
     {
       "tgId": "1221268718",
