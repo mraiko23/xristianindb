@@ -43,7 +43,7 @@
       "stickers": 1,
       "absences": 0,
       "isAdmin": true,
-      "theme": "light",
+      "theme": "dark",
       "registeredAt": "2025-12-18T09:04:37.995Z",
       "pet": {
         "animalId": "monkey",
