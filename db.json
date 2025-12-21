@@ -119,7 +119,16 @@
     }
   ],
   "topics": [],
-  "homework": [],
+  "homework": [
+    {
+      "id": "1766289482445",
+      "title": "Vvv",
+      "description": "Ррррр\n",
+      "dueDate": "2025-12-28",
+      "isHidden": false,
+      "completedBy": []
+    }
+  ],
   "submissions": [],
   "settings": {
     "adminUsername": "@klimochiv",
