@@ -29,7 +29,10 @@
         "completedTasksToday": 1,
         "inventory": [
           "scarf_red"
-        ]
+        ],
+        "outfit": {
+          "scarf": "scarf_red"
+        }
       },
       "spentStickers": 59,
       "lastAcknowledgedGift": 5,
