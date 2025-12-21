@@ -167,7 +167,17 @@
       "isAdmin": false,
       "theme": "light",
       "registeredAt": "2025-12-21T10:46:49.110Z",
-      "lastAcknowledgedGift": 0
+      "lastAcknowledgedGift": 0,
+      "pet": {
+        "animalId": "rabbit",
+        "name": "Зайка",
+        "createdAt": "2025-12-21T10:48:25.690Z",
+        "streak": 0,
+        "lastTaskDate": null,
+        "currentTask": null,
+        "isDead": false,
+        "lastAction": null
+      }
     }
   ],
   "topics": [
