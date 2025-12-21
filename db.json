@@ -100,8 +100,12 @@
         "name": "нупик",
         "createdAt": "2025-12-21T06:06:53.321Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2025-12-21",
+        "currentTask": {
+          "taskId": "wash",
+          "createdAt": "2025-12-21T06:09:35.958Z",
+          "deadline": "2025-12-21T10:09:35.958Z"
+        },
         "isDead": false,
         "lastAction": null,
         "inventory": [
@@ -111,7 +115,9 @@
         "outfit": {
           "hat": "hat_crown",
           "shoes": "shoes_sneakers"
-        }
+        },
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-21T06:09:35.958Z"
       },
       "spentStickers": 6
     }
