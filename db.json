@@ -88,7 +88,7 @@
       "lastName": "аооаоа",
       "birthDate": "23.09.1999",
       "photo": "https://t.me/i/userpic/320/DTHFO9LATazZzBUaAo4rIr-sdeqVpLfr5sUi-95DzGhGvbUG1sBzVqIPUS0YKxaz.svg",
-      "stickers": 7,
+      "stickers": 4,
       "roadProgress": 10,
       "absences": 0,
       "isAdmin": false,
@@ -105,13 +105,14 @@
         "isDead": false,
         "lastAction": null,
         "inventory": [
-          "hat_crown"
+          "hat_crown",
+          "shoes_sneakers"
         ],
         "outfit": {
           "hat": "hat_crown"
         }
       },
-      "spentStickers": 3
+      "spentStickers": 6
     }
   ],
   "topics": [
