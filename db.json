@@ -133,7 +133,7 @@
       "roadProgress": 0,
       "absences": 0,
       "isAdmin": false,
-      "theme": "light",
+      "theme": "dark",
       "registeredAt": "2025-12-21T07:12:03.203Z",
       "lastAcknowledgedGift": 0
     }
