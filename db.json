@@ -88,7 +88,7 @@
       "lastName": "аооаоа",
       "birthDate": "23.09.1999",
       "photo": "https://t.me/i/userpic/320/DTHFO9LATazZzBUaAo4rIr-sdeqVpLfr5sUi-95DzGhGvbUG1sBzVqIPUS0YKxaz.svg",
-      "stickers": 10,
+      "stickers": 7,
       "roadProgress": 10,
       "absences": 0,
       "isAdmin": false,
@@ -103,8 +103,12 @@
         "lastTaskDate": null,
         "currentTask": null,
         "isDead": false,
-        "lastAction": null
-      }
+        "lastAction": null,
+        "inventory": [
+          "hat_crown"
+        ]
+      },
+      "spentStickers": 3
     }
   ],
   "topics": [
