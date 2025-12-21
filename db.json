@@ -61,14 +61,18 @@
         "createdAt": "2025-12-21T03:55:07.090Z",
         "streak": 2,
         "lastTaskDate": "2025-12-21",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "pet",
+          "createdAt": "2025-12-21T10:39:35.969Z",
+          "deadline": "2025-12-21T14:39:35.969Z"
+        },
         "isDead": false,
         "lastAction": {
           "type": "play",
           "time": "2025-12-21T08:54:24.232Z"
         },
-        "tasksToday": 0,
-        "lastTaskCreatedAt": "2025-12-21T07:39:35.956Z",
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-21T10:39:35.969Z",
         "completedTasksToday": 2,
         "inventory": [
           "hat_crown"
@@ -117,12 +121,8 @@
         "createdAt": "2025-12-21T06:06:53.321Z",
         "streak": 0,
         "lastTaskDate": "2025-12-21",
-        "currentTask": {
-          "taskId": "wash",
-          "createdAt": "2025-12-21T06:09:35.958Z",
-          "deadline": "2025-12-21T10:09:35.958Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "inventory": [
           "hat_crown",
@@ -133,7 +133,8 @@
           "shoes": "shoes_sneakers"
         },
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-21T06:09:35.958Z"
+        "lastTaskCreatedAt": "2025-12-21T06:09:35.958Z",
+        "diedAt": "2025-12-21T10:39:35.969Z"
       },
       "spentStickers": 6,
       "claimedGifts": 0
