@@ -94,10 +94,16 @@
         "name": "чупик",
         "createdAt": "2025-12-21T03:55:07.090Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2025-12-21",
+        "currentTask": {
+          "taskId": "wash",
+          "createdAt": "2025-12-21T04:18:46.100Z",
+          "deadline": "2025-12-21T08:18:46.100Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2025-12-21T04:18:46.100Z"
       },
       "lastAcknowledgedGift": 1,
       "spentStickers": 5,
