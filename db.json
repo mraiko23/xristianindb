@@ -154,7 +154,7 @@
       "title": "Дз",
       "description": "Выучить золотой стих, прочитать историю про пасху",
       "dueDate": "2025-12-20",
-      "isHidden": false,
+      "isHidden": true,
       "completedBy": []
     }
   ],
