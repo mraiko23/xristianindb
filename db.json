@@ -112,7 +112,7 @@
       "photo": "https://t.me/i/userpic/320/pfErF8XbOSYKVIm8e8n_sqt3Z26v6wXNSHRM51uyG7Y.svg",
       "stickers": 0,
       "absences": 0,
-      "isAdmin": false,
+      "isAdmin": true,
       "theme": "light",
       "registeredAt": "2025-12-21T03:57:02.571Z",
       "lastAcknowledgedGift": 0
