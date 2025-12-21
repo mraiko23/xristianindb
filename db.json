@@ -97,7 +97,16 @@
       "lastAcknowledgedGift": 0
     }
   ],
-  "topics": [],
+  "topics": [
+    {
+      "id": "1766295730206",
+      "title": "Иисус воскрес из мертвых",
+      "date": "2025-12-21",
+      "description": "\n",
+      "isHidden": false,
+      "isCurrent": false
+    }
+  ],
   "homework": [
     {
       "id": "1766289483483",
