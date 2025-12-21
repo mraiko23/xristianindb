@@ -17,14 +17,14 @@
         "name": "хуеглот",
         "createdAt": "2025-12-21T04:21:27.855Z",
         "streak": 1,
-        "lastTaskDate": "Sun Dec 21 2025",
+        "lastTaskDate": "2025-12-21",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "walk",
           "time": "2025-12-21T04:35:21.000Z"
         },
-        "tasksToday": 1,
+        "tasksToday": 0,
         "lastTaskCreatedAt": "2025-12-21T04:30:49.577Z",
         "completedTasksToday": 1
       },
@@ -50,14 +50,14 @@
         "name": "чупик",
         "createdAt": "2025-12-21T03:55:07.090Z",
         "streak": 1,
-        "lastTaskDate": "Sun Dec 21 2025",
+        "lastTaskDate": "2025-12-21",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "wash",
           "time": "2025-12-21T04:37:09.517Z"
         },
-        "tasksToday": 1,
+        "tasksToday": 0,
         "lastTaskCreatedAt": "2025-12-21T04:18:46.100Z",
         "completedTasksToday": 1
       },
