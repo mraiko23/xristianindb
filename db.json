@@ -109,7 +109,8 @@
           "shoes_sneakers"
         ],
         "outfit": {
-          "hat": "hat_crown"
+          "hat": "hat_crown",
+          "shoes": "shoes_sneakers"
         }
       },
       "spentStickers": 6
