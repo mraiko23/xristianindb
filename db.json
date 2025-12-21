@@ -60,14 +60,14 @@
         "name": "чупик",
         "createdAt": "2025-12-21T03:55:07.090Z",
         "streak": 2,
-        "lastTaskDate": "Sun Dec 21 2025",
+        "lastTaskDate": "2025-12-21",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "play",
           "time": "2025-12-21T08:54:24.232Z"
         },
-        "tasksToday": 1,
+        "tasksToday": 0,
         "lastTaskCreatedAt": "2025-12-21T07:39:35.956Z",
         "completedTasksToday": 2,
         "inventory": [
