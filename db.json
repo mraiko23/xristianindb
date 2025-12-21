@@ -58,12 +58,8 @@
         "createdAt": "2025-12-21T03:55:07.090Z",
         "streak": 2,
         "lastTaskDate": "2025-12-21",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2025-12-21T10:39:35.969Z",
-          "deadline": "2025-12-21T14:39:35.969Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": {
           "type": "play",
           "time": "2025-12-21T08:54:24.232Z"
@@ -76,7 +72,8 @@
         ],
         "outfit": {
           "hat": "hat_crown"
-        }
+        },
+        "diedAt": "2025-12-21T14:39:36.016Z"
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 8,
