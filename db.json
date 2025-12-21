@@ -168,15 +168,12 @@
         "createdAt": "2025-12-21T10:48:31.318Z",
         "streak": 0,
         "lastTaskDate": "2025-12-21",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2025-12-21T11:09:35.983Z",
-          "deadline": "2025-12-21T15:09:35.983Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-21T11:09:35.983Z"
+        "lastTaskCreatedAt": "2025-12-21T11:09:35.983Z",
+        "diedAt": "2025-12-21T15:09:36.030Z"
       }
     }
   ],
