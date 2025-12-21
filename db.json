@@ -92,7 +92,8 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2025-12-21T04:38:46.036Z"
+      "registeredAt": "2025-12-21T04:38:46.036Z",
+      "lastAcknowledgedGift": 0
     }
   ],
   "topics": [],
