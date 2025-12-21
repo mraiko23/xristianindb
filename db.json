@@ -166,7 +166,8 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2025-12-21T10:46:49.110Z"
+      "registeredAt": "2025-12-21T10:46:49.110Z",
+      "lastAcknowledgedGift": 0
     }
   ],
   "topics": [
