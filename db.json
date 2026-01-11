@@ -168,15 +168,12 @@
         "createdAt": "2026-01-11T07:07:35.079Z",
         "streak": 0,
         "lastTaskDate": "2026-01-11",
-        "currentTask": {
-          "taskId": "sleep",
-          "createdAt": "2026-01-11T07:09:37.418Z",
-          "deadline": "2026-01-11T11:09:37.418Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-11T07:09:37.418Z"
+        "lastTaskCreatedAt": "2026-01-11T07:09:37.418Z",
+        "diedAt": "2026-01-11T11:09:37.429Z"
       }
     }
   ],
