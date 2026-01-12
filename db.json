@@ -212,14 +212,18 @@
         "createdAt": "2026-01-12T15:06:52.045Z",
         "streak": 1,
         "lastTaskDate": "2026-01-12",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "feed",
+          "createdAt": "2026-01-12T17:39:37.442Z",
+          "deadline": "2026-01-12T21:39:37.442Z"
+        },
         "isDead": false,
         "lastAction": {
           "type": "pet",
           "time": "2026-01-12T15:14:36.021Z"
         },
-        "tasksToday": 0,
-        "lastTaskCreatedAt": "2026-01-12T15:09:37.464Z",
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-01-12T17:39:37.442Z",
         "completedTasksToday": 1
       }
     }
