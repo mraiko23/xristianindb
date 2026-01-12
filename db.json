@@ -191,6 +191,20 @@
         "lastTaskCreatedAt": "2026-01-11T07:09:37.418Z",
         "diedAt": "2026-01-11T11:09:37.429Z"
       }
+    },
+    {
+      "tgId": "6490012214",
+      "username": "Lyudmila_Mantrova",
+      "firstName": "Артём",
+      "lastName": "Мантров",
+      "birthDate": "24.02.2014",
+      "photo": "https://t.me/i/userpic/320/ujsJ_o319NTg5Kh7LVET_-QRwV9UGzHeuVxdmeB4SUJlNcRPT0J73bw-w95pRfPn.svg",
+      "stickers": 0,
+      "roadProgress": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2026-01-12T14:59:34.076Z"
     }
   ],
   "topics": [
