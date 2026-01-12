@@ -211,14 +211,14 @@
         "name": "Львëнок",
         "createdAt": "2026-01-12T15:06:52.045Z",
         "streak": 1,
-        "lastTaskDate": "Mon Jan 12 2026",
+        "lastTaskDate": "2026-01-12",
         "currentTask": null,
         "isDead": false,
         "lastAction": {
           "type": "pet",
           "time": "2026-01-12T15:14:36.021Z"
         },
-        "tasksToday": 1,
+        "tasksToday": 0,
         "lastTaskCreatedAt": "2026-01-12T15:09:37.464Z",
         "completedTasksToday": 1
       }
