@@ -152,10 +152,16 @@
         "name": "ранель",
         "createdAt": "2026-01-12T13:53:28.837Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2026-01-12",
+        "currentTask": {
+          "taskId": "walk",
+          "createdAt": "2026-01-12T14:09:37.465Z",
+          "deadline": "2026-01-12T18:09:37.465Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-01-12T14:09:37.465Z"
       }
     },
     {
