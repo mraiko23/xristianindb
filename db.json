@@ -205,7 +205,17 @@
       "isAdmin": false,
       "theme": "light",
       "registeredAt": "2026-01-12T14:59:34.076Z",
-      "lastAcknowledgedGift": 0
+      "lastAcknowledgedGift": 0,
+      "pet": {
+        "animalId": "lion",
+        "name": "Львëнок",
+        "createdAt": "2026-01-12T15:06:50.168Z",
+        "streak": 0,
+        "lastTaskDate": null,
+        "currentTask": null,
+        "isDead": false,
+        "lastAction": null
+      }
     }
   ],
   "topics": [
