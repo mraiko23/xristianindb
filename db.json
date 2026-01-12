@@ -210,17 +210,17 @@
         "animalId": "lion",
         "name": "Львëнок",
         "createdAt": "2026-01-12T15:06:52.045Z",
-        "streak": 0,
-        "lastTaskDate": "2026-01-12",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2026-01-12T15:09:37.464Z",
-          "deadline": "2026-01-12T19:09:37.464Z"
-        },
+        "streak": 1,
+        "lastTaskDate": "Mon Jan 12 2026",
+        "currentTask": null,
         "isDead": false,
-        "lastAction": null,
+        "lastAction": {
+          "type": "pet",
+          "time": "2026-01-12T15:14:36.021Z"
+        },
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-12T15:09:37.464Z"
+        "lastTaskCreatedAt": "2026-01-12T15:09:37.464Z",
+        "completedTasksToday": 1
       }
     }
   ],
