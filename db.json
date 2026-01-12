@@ -204,7 +204,8 @@
       "absences": 0,
       "isAdmin": false,
       "theme": "light",
-      "registeredAt": "2026-01-12T14:59:34.076Z"
+      "registeredAt": "2026-01-12T14:59:34.076Z",
+      "lastAcknowledgedGift": 0
     }
   ],
   "topics": [
