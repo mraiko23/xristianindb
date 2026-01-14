@@ -152,10 +152,16 @@
         "name": "арина",
         "createdAt": "2026-01-14T05:26:14.051Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2026-01-14",
+        "currentTask": {
+          "taskId": "wash",
+          "createdAt": "2026-01-14T05:39:37.467Z",
+          "deadline": "2026-01-14T09:39:37.467Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-01-14T05:39:37.467Z"
       }
     },
     {
