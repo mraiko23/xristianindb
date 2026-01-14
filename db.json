@@ -153,15 +153,12 @@
         "createdAt": "2026-01-14T05:26:14.051Z",
         "streak": 0,
         "lastTaskDate": "2026-01-14",
-        "currentTask": {
-          "taskId": "wash",
-          "createdAt": "2026-01-14T05:39:37.467Z",
-          "deadline": "2026-01-14T09:39:37.467Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-14T05:39:37.467Z"
+        "lastTaskCreatedAt": "2026-01-14T05:39:37.467Z",
+        "diedAt": "2026-01-14T10:09:37.532Z"
       }
     },
     {
