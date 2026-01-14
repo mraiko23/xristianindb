@@ -148,17 +148,14 @@
       "registeredAt": "2025-12-21T07:12:03.203Z",
       "lastAcknowledgedGift": 0,
       "pet": {
-        "animalId": "elephant",
-        "name": "ранель",
-        "createdAt": "2026-01-12T13:53:28.837Z",
+        "animalId": "monkey",
+        "name": "арина",
+        "createdAt": "2026-01-14T05:26:14.051Z",
         "streak": 0,
-        "lastTaskDate": "2026-01-12",
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-12T14:09:37.465Z",
-        "diedAt": "2026-01-12T18:39:37.440Z"
+        "isDead": false,
+        "lastAction": null
       }
     },
     {
