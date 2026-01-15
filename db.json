@@ -240,6 +240,14 @@
       "dueDate": "2025-12-20",
       "isHidden": false,
       "completedBy": []
+    },
+    {
+      "id": "1768481107945",
+      "title": "Дз",
+      "description": "Выучить золотой стих Иоанна 14:26, прочитать и рассказать историю \"Сошествие Духа Святого\"",
+      "dueDate": "2026-01-18",
+      "isHidden": false,
+      "completedBy": []
     }
   ],
   "submissions": [
