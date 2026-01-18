@@ -171,7 +171,7 @@
       "stickers": 0,
       "roadProgress": 0,
       "absences": 0,
-      "isAdmin": false,
+      "isAdmin": true,
       "theme": "light",
       "registeredAt": "2025-12-21T10:46:49.110Z",
       "lastAcknowledgedGift": 0,
