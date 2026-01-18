@@ -272,6 +272,14 @@
       "dueDate": "2026-01-11",
       "isHidden": false,
       "completedBy": []
+    },
+    {
+      "id": "1768714960601",
+      "title": "Дз",
+      "description": "Выучить золотой стих (Евреям 11:6), найти и рассказать историю из Библии про добрые дела",
+      "dueDate": "2026-01-25",
+      "isHidden": false,
+      "completedBy": []
     }
   ],
   "submissions": [
