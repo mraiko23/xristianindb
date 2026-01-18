@@ -256,6 +256,14 @@
       "dueDate": "2026-01-18",
       "isHidden": false,
       "completedBy": []
+    },
+    {
+      "id": "1768706719830",
+      "title": "Домашнее задание",
+      "description": "Придумать по одному вопросу по пройденному уроку.",
+      "dueDate": "2026-01-11",
+      "isHidden": false,
+      "completedBy": []
     }
   ],
   "submissions": [
