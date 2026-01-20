@@ -58,7 +58,11 @@
         "createdAt": "2026-01-20T00:51:17.814Z",
         "streak": 0,
         "lastTaskDate": "2026-01-20",
-        "currentTask": null,
+        "currentTask": {
+          "taskId": "pet",
+          "createdAt": "2026-01-20T03:09:37.534Z",
+          "deadline": "2026-01-20T07:09:37.534Z"
+        },
         "isDead": false,
         "lastAction": null,
         "inventory": [
@@ -67,7 +71,8 @@
         "outfit": {
           "hat": "hat_crown"
         },
-        "tasksToday": 0
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-01-20T03:09:37.534Z"
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 11,
