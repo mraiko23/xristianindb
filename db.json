@@ -53,27 +53,14 @@
       "theme": "dark",
       "registeredAt": "2025-12-18T09:04:37.995Z",
       "pet": {
-        "animalId": "monkey",
+        "animalId": "penguin",
         "name": "чупик",
-        "createdAt": "2025-12-21T03:55:07.090Z",
-        "streak": 2,
-        "lastTaskDate": "2025-12-21",
+        "createdAt": "2026-01-20T00:51:17.814Z",
+        "streak": 0,
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": {
-          "type": "play",
-          "time": "2025-12-21T08:54:24.232Z"
-        },
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-21T10:39:35.969Z",
-        "completedTasksToday": 2,
-        "inventory": [
-          "hat_crown"
-        ],
-        "outfit": {
-          "hat": "hat_crown"
-        },
-        "diedAt": "2025-12-21T14:39:36.016Z"
+        "isDead": false,
+        "lastAction": null
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 8,
