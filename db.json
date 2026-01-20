@@ -63,7 +63,10 @@
         "lastAction": null,
         "inventory": [
           "hat_crown"
-        ]
+        ],
+        "outfit": {
+          "hat": "hat_crown"
+        }
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 11,
