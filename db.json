@@ -58,12 +58,8 @@
         "createdAt": "2026-01-20T00:51:17.814Z",
         "streak": 0,
         "lastTaskDate": "2026-01-20",
-        "currentTask": {
-          "taskId": "pet",
-          "createdAt": "2026-01-20T03:09:37.534Z",
-          "deadline": "2026-01-20T07:09:37.534Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "inventory": [
           "hat_crown"
@@ -72,7 +68,8 @@
           "hat": "hat_crown"
         },
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-20T03:09:37.534Z"
+        "lastTaskCreatedAt": "2026-01-20T03:09:37.534Z",
+        "diedAt": "2026-01-20T07:09:37.555Z"
       },
       "lastAcknowledgedGift": 0,
       "spentStickers": 11,
