@@ -216,6 +216,20 @@
         "completedTasksToday": 1,
         "diedAt": "2026-01-12T21:39:37.460Z"
       }
+    },
+    {
+      "tgId": "7226492030",
+      "username": "Andre_019",
+      "firstName": "Андрюха",
+      "lastName": "Перагов",
+      "birthDate": "10.08.2015",
+      "photo": "https://t.me/i/userpic/320/xWrES7rQercK19C0PEl8i6gGMoOk9VwL2hTrOVrYmfCmow95r9Rq8xPoO6UFOw6K.svg",
+      "stickers": 0,
+      "roadProgress": 0,
+      "absences": 0,
+      "isAdmin": false,
+      "theme": "light",
+      "registeredAt": "2026-01-22T12:32:20.239Z"
     }
   ],
   "topics": [
