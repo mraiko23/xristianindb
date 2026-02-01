@@ -172,17 +172,14 @@
       "registeredAt": "2025-12-21T10:46:49.110Z",
       "lastAcknowledgedGift": 0,
       "pet": {
-        "animalId": "bear",
-        "name": "Мишка",
-        "createdAt": "2026-01-11T07:07:35.079Z",
+        "animalId": "panda",
+        "name": "Панда",
+        "createdAt": "2026-02-01T03:20:44.037Z",
         "streak": 0,
-        "lastTaskDate": "2026-01-11",
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-01-11T07:09:37.418Z",
-        "diedAt": "2026-01-11T11:09:37.429Z"
+        "isDead": false,
+        "lastAction": null
       }
     },
     {
