@@ -176,10 +176,16 @@
         "name": "Панда",
         "createdAt": "2026-02-01T03:20:44.037Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2026-02-01",
+        "currentTask": {
+          "taskId": "feed",
+          "createdAt": "2026-02-01T03:39:37.795Z",
+          "deadline": "2026-02-01T07:39:37.795Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-02-01T03:39:37.795Z"
       }
     },
     {
