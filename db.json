@@ -111,15 +111,12 @@
         "createdAt": "2026-02-11T14:29:30.772Z",
         "streak": 0,
         "lastTaskDate": "2026-02-11",
-        "currentTask": {
-          "taskId": "walk",
-          "createdAt": "2026-02-11T14:51:29.719Z",
-          "deadline": "2026-02-11T18:51:29.719Z"
-        },
-        "isDead": false,
+        "currentTask": null,
+        "isDead": true,
         "lastAction": null,
         "tasksToday": 1,
-        "lastTaskCreatedAt": "2026-02-11T14:51:29.719Z"
+        "lastTaskCreatedAt": "2026-02-11T14:51:29.719Z",
+        "diedAt": "2026-02-11T19:21:29.663Z"
       },
       "spentStickers": 6,
       "claimedGifts": 0
