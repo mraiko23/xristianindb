@@ -106,25 +106,14 @@
       "registeredAt": "2025-12-21T04:38:46.036Z",
       "lastAcknowledgedGift": 0,
       "pet": {
-        "animalId": "frog",
-        "name": "нупик",
-        "createdAt": "2025-12-21T06:06:53.321Z",
+        "animalId": "elephant",
+        "name": "чупер",
+        "createdAt": "2026-02-11T14:29:30.772Z",
         "streak": 0,
-        "lastTaskDate": "2025-12-21",
+        "lastTaskDate": null,
         "currentTask": null,
-        "isDead": true,
-        "lastAction": null,
-        "inventory": [
-          "hat_crown",
-          "shoes_sneakers"
-        ],
-        "outfit": {
-          "hat": "hat_crown",
-          "shoes": "shoes_sneakers"
-        },
-        "tasksToday": 1,
-        "lastTaskCreatedAt": "2025-12-21T06:09:35.958Z",
-        "diedAt": "2025-12-21T10:39:35.969Z"
+        "isDead": false,
+        "lastAction": null
       },
       "spentStickers": 6,
       "claimedGifts": 0
