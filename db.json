@@ -110,10 +110,16 @@
         "name": "чупер",
         "createdAt": "2026-02-11T14:29:30.772Z",
         "streak": 0,
-        "lastTaskDate": null,
-        "currentTask": null,
+        "lastTaskDate": "2026-02-11",
+        "currentTask": {
+          "taskId": "walk",
+          "createdAt": "2026-02-11T14:51:29.719Z",
+          "deadline": "2026-02-11T18:51:29.719Z"
+        },
         "isDead": false,
-        "lastAction": null
+        "lastAction": null,
+        "tasksToday": 1,
+        "lastTaskCreatedAt": "2026-02-11T14:51:29.719Z"
       },
       "spentStickers": 6,
       "claimedGifts": 0
